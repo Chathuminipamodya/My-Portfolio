@@ -11,7 +11,7 @@ import CopyButton from "./copy-btn";
 
 export default function Contact() {
   const { ref } = useSectionInView("Contact");
-  const email = "sachinviraj1998@gmail.com";
+  const email = "chathuminiwanasinghe@gmail.com";
 
   return (
     <motion.section

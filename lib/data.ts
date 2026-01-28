@@ -38,24 +38,18 @@ export const links = [
 export const experiencesData = [
   {
     title: "Intern Software Engineer",
-    location: "Agrithmics (Pvt) Ltd.",
-    description: "I contributed to an ERP System project, where my responsibilities included module implementation, bulk data handling, and real-time transaction processing. Technologies used: React, .NET, C#, MS SQL, RabbitMQ, Redis, and Azure.",
+    location: "X-ONT Software (Pvt) Ltd.",
+    description: "Gained hands-on experience in software development using ASP.NET, Angular, MS SQL Server, and Crystal Reports.Trained on the company’s base application “Ventura”, contributing to feature development and system enhancements.",
     icon: React.createElement(LuGraduationCap),
-    date: "2022 Dec- 2023 June",
+    date: "2025 Feb- 2025 Sep",
   },
-  {
-    title: "Front-End Developer",
-    location: "Part Time",
-    description: "I worked as a part-time Front-End Developer, where I honed my UI development skills and began expanding into full-stack development.",
-    icon: React.createElement(CgWorkAlt),
-    date: "2022 - 2023",
-  },
+
   {
     title: "Freelancer Developer",
     location: "Full Time",
-    description: "I'm currently working as a full-stack freelance developer. My core stack includes React, .NET, TypeScript, Tailwind, MSSQL, and MongoDB. I am actively seeking full-time opportunities.",
+    description: "I'm currently working as a full-stack freelance developer. My core stack includes React, Angular, .NET, TypeScript, Tailwind,Mui, MSSQL.. I am actively seeking full-time opportunities.",
     icon: React.createElement(FaReact),
-    date: "2022 - present",
+    date: "2025 - present",
   },
 ] as const;
 
