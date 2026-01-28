@@ -19,24 +19,13 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-         I decided to pursue my
-        passion for programming. In University, I learned coding and learned{" "}
-        <span className="font-medium">full-stack web development  specializing in .NET and 
-          React & Angular, as well as mobile application development using Flutter. 
-          With hands-on experience in developing web applications, APIs, and mobile 
-          solutions, I thrive on solving complex problems and building scalable, 
-          efficient software systems</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          React/Angular, .NET, C#, MUi, and MsSQL
-        </span>
-        . I am also familiar with C#, JavaScript, TypeScript, Java, Flutter & Dart . I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        Engineer.
+        I am a passionate Full-Stack Software Engineer with a strong foundation in building modern web and mobile applications. During my university studies at the Faculty of Information Technology, University of Moratuwa, I gained hands-on experience in full-stack web development using .NET, React, and Angular, as well as mobile application development using Flutter.
+
+I enjoy designing and developing scalable web applications, RESTful APIs, and efficient software solutions. Problem-solving is the part of programming I enjoy the most—I find great satisfaction in analyzing challenges and turning them into working, reliable solutions.
+
+My core technical stack includes C#, .NET, React, Angular, MS SQL, and Material UI, and I am also familiar with JavaScript, TypeScript, Java, Flutter, and Dart. I am continuously learning and improving my skills, and I am currently expanding my knowledge in cloud computing with Microsoft Azure.
+
+I am actively seeking a full-time Software Engineer position where I can contribute to impactful projects, grow as an engineer, and build meaningful software solutions.
       </p>
 
       <p>
@@ -44,7 +33,7 @@ export default function About() {
         and efficiency. I also enjoy{" "}
         <span className="font-medium">learning new things</span>. I am currently
         learning about{" "}
-        <span className="font-medium">Azure as Cloud Computing</span>.
+        <span className="font-medium">Docker and application containerization.</span>.
       </p>
     </motion.section>
   );
